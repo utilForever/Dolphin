@@ -1,9 +1,9 @@
 # Dolphin
 
+<img src="https://github.com/Pika-Go/Dolphin/blob/master/Logo.png" align="center" />
+
 Dolphin is a Game Engine to develop 2D and 3D games fast and easy and written in Go. The goal is to allow very fast development, which is often needed in prototyping.
 Thanks to the many embedded open-source libraries we can provide you with all the features you might need. Keep in mind that we aim for a miniamlistic and compact game engine.
-
-<img src="https://github.com/Pika-Go/Dolphin/blob/master/Logo.png" align="center" />
 
 #### 2D and 3D cross-platform game engine
 
